@@ -1,0 +1,1 @@
+<!-- You can request AI to generate specific asset requirements from your script! -->

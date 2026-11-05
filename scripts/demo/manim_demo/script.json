@@ -1,0 +1,18 @@
+{
+  "project_title": "Repo Render Py Demo",
+  "category": "demo",
+  "folder_name": "manim_demo",
+  "aspect_ratio": "9:16",
+  "scenes": [
+    {
+      "scene_id": "scene_1",
+      "duration_seconds": 2.5,
+      "spoken_text": "Welcome to Repo Render Py, the automated Python video pipeline."
+    },
+    {
+      "scene_id": "scene_2",
+      "duration_seconds": 3.5,
+      "spoken_text": "Enjoy Zero DB filesystems, automatic audio muxing, and intelligent AI prompt engines."
+    }
+  ]
+}
