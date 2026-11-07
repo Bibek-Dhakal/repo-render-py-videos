@@ -3,6 +3,10 @@
   "category": "demo",
   "folder_name": "manim_demo",
   "aspect_ratio": "9:16",
+  "high_ctr_achiever_thumbnail": {
+    "visual_prompt": "A bold blue title with a yellow AI Video badge underneath.",
+    "text_overlay": "AI Video Pipeline"
+  },
   "scenes": [
     {
       "scene_id": "scene_1",
